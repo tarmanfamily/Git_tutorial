@@ -11,3 +11,4 @@ this repo just for training and learning to use for colaboration team code
 
 ## Task 3 : see how brach frontend update from main 
     test 1 to update main
+    test 2 to update front-end and merge to main
